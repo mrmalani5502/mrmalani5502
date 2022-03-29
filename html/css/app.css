@@ -1,0 +1,22 @@
+li{
+    display: inline;
+}
+#hidden{
+    visibility: hidden;
+}
+#heading{
+border:  20px solid red;
+height: 100px;
+width: 300px;
+
+border: 10px solid red;
+padding: 10px;
+ box-shadow: 5px -5px 10px green; 
+border-top-right-radius: 50px;
+border-top-left-radius: 5px;
+border-bottom-right-radius: 100px;
+border-bottom-left-radius: 20px; 
+border-radius: 10px 100px;
+
+
+} 
